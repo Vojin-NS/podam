@@ -4,7 +4,7 @@ machine:
 
 general:
    artifacts:
-     - $CIRCLE_TEST_REPORTS
+    # - $CIRCLE_TEST_REPORTS
      - target
      
 test:
